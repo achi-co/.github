@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 [Domain Storytelling](https://htmlpreview.github.io/?https://github.com/achi-co/.github/blob/main/profile/Achi_Fri%20Dec%2001.html)
-![Domain](Achi_2023-12-01.png)
+![Domain](https://github.com/achi-co/.github/blob/main/profile/Achi_2023-12-01.png)
